@@ -14,7 +14,7 @@ To perform basic **arithmetic operations**, click on the corresponding buttons o
 To perform square or cube calculation, click on the "**x²**" or "**x³**" button, respectively. The current input value will be squared or cubed, and the result will be displayed in the input field.
 
 # Clearing and Copying Result
-To clear the input field and start a new calculation, click on the "**AC**" button. To copy the result of the calculation to the clipboard, click on the "**Copy**" button.
+To clear the input field and start a new calculation, click on the "**AC**" button.
 
 # Built With
 #### HTML
