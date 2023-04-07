@@ -15,12 +15,6 @@ Array.from(buttons).forEach((btn)=>{
             document.querySelector('.input_text').value=string
             i="1"
         }
-        // else if (e.target.innerHTML=="Del") {
-        //     let j=string.length
-        //     string=string[j-1]
-        //     console.log(string[j])
-        //     document.querySelector('.input_text').value=string
-        // }
         else if (e.target.innerHTML=="x²") {
             if(i=="1"){
             temp=string
