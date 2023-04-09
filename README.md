@@ -32,6 +32,8 @@ The following buttons are available:
 
 **AC button**: Clicking on the "AC" button will clear the input field and reset the calculator.
 
+**Del button**: Clicking on the "Del" button will remove the last character entered in the calculator's input field.
+
 # Built With
 <li>HTML
 <li>CSS
